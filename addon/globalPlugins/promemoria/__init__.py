@@ -2,7 +2,7 @@
 #Copyright (C) 2020 by chris llajta2012@gmail.com
 # Released under GPL 2
 # Promemoria addon for NVDA screen reader 
-# version 0.2.20200831-dev:
+# version 0.3.20210527-dev:
 
 import addonHandler
 import globalPluginHandler
@@ -70,7 +70,7 @@ class ReminderDialog(wx.Dialog):
 		mainSizer.Add(sizerHelper.sizer, border=guiHelper.BORDER_FOR_DIALOGS, flag=wx.ALL)
 		self.Sizer = mainSizer
 		mainSizer.Fit(self)
-		self.Center(wx.BOTH | wx.CENTER_ON_SCREEN)
+		self.CentreOnScreen()
 		wx.CallAfter(self.Show)
 
 	def onOk(self, evt):
