@@ -6,6 +6,7 @@
 
 Avvisa con un messaggio all'avvio di NVDA se sono presenti promemoria per la giornata in corso.
 
-È necessario assegnare un comando rapido dai gesti di input per aprire la finestra di dialogo proMemoria, quindi impostare i vostri promemoria dalla finestra di dialogo.
+Dal menu Strumenti, Promemoria sottomenu, è possible aggiungere un promemoria.
+È anche possibile  assegnare un comando rapido dai gesti di input per aprire la finestra di dialogo proMemoria, quindi impostare i vostri promemoria dalla finestra di dialogo.
 
 ---
