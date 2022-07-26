@@ -19,7 +19,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""Warns with a message when starting NVDA if there are reminders for the day"""),
 	# version
-	"addon_version" : "0.4.20220319-dev",
+	"addon_version" : "0.5.20220704-dev",
 	# Author(s)
 	"addon_author" : u"Chris Leo Mameli<llajta2012@gmail.com>",
 	# URL for the add-on documentation support
