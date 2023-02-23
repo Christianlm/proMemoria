@@ -1,8 +1,8 @@
 # -*- coding: UTF-8 -*-
-#Copyright (C) 2020-2022 by Christian Leo Mameli llajta2012ATgmail.com
+#Copyright (C) 2020-2023 by Christian Leo Mameli llajta2012ATgmail.com
 # Released under GPL 2
 # Promemoria addon for NVDA screen reader 
-# version 0.5.20220704-dev:
+# version 0.5.20230223-dev:
 
 import addonHandler
 import globalPluginHandler
